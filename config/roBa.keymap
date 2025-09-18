@@ -56,7 +56,7 @@
 
         toLayerNUM {
             bindings = <&to 2>;
-            key-positions = <0 34>;
+            key-positions = <0 1>;
         };
     };
 
