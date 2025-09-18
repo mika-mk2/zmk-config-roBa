@@ -53,6 +53,11 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        toLayerNUM {
+            bindings = <&none>;
+            key-positions = <0 34>;
+        };
     };
 
     macros {
